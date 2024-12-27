@@ -84,3 +84,11 @@ An ecological footprint (EF) shows how much land is needed to support a person, 
 
 #q[Explain the ultimate goals of the third wave in the typology.]
 - Reinterprets corporations as integral to societal and ecological systems.
+
+#q[A journey of five stages on the path to becoming sustainable]
+
+- Viewing compliance as opportunity
+- Making value chains sustainable
+- Designing sustainable products and services
+- Developing new business models
+- Creating next-practice platforms
