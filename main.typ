@@ -50,6 +50,34 @@ A positive externality is a benefit of an action that affects others but not the
 - Imposing taxes or implementing regulations.
 - Aims to align private costs with social costs
 
+= LCA
+#q[Define Life Cycle Assessment (LCA) in your own words]
+
+- Systematic evaluation of environmental impacts.
+- Analyzes inputs/outputs throughout a product's life.
+- Includes stages from resource extraction to disposal.
+
+#q[What are the four stages of LCA?]
+- Goal & Scope Definition
+- Inventory Analysis (LCI)
+- Impact Assessment (LCIA)
+- Interpretation
+
+#q[List the four general stages of LCI.]
+
+- Raw material acquisition
+- Production
+- Usage
+- End-of-life disposal
+
+#q[What are the four main components of an LCA Scoping]
+- Goal and Scope Definition
+- Functional Unit
+- System Boundaries
+- Assumptions and Limitations
+- Allocation Methods
+- Impact Categories
+
 #q[What is Ecological Footprint?]
 
 An ecological footprint (EF) shows how much land is needed to support a person, city, or country's:
