@@ -1,5 +1,5 @@
-#set page(fill: black)
-#set text(fill: white)
+// #set page(fill: black)
+// #set text(fill: white)
 
 #let q = content => [
   #text(fill: blue)[#content]
