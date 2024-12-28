@@ -5,6 +5,32 @@
   #text(fill: blue)[#content]
 ]
 
+= Climate change and business opportunities
+
+#q[What are the main categories of climate-related risks for businesses?]
+- Physical risks
+- Operational risks
+- Regulatory risks
+- Financial risks
+- Market risks
+- Political risks
+- Reputational risks
+
+#q[what is maladaptation in the context of corporate actions.]
+
+Actions increase vulnerability to climate impacts rather than reduce it
+
+#q[Identify two strategic opportunities for companies investing in climate change adaptation.]
+
+- Cost Savings: Reducing operational expenditures through efficiency improvements
+- Market Expansion: Tapping into new markets via innovative adaptation solutions.
+
+#q[How does engaging with vulnerable communities relate to corporate reputation?]
+- Good Corporate Citizenship: Enhances reputation by solidifying links between business activities and community needs
+- Stakeholder Benefits: Increases goodwill among customers and investors
+
+= Waste Management
+
 #q[What is the primary goal of waste management systems?]
 - Protect public health, environment
 - and ensure sustained economic growth.
